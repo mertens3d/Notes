@@ -1,0 +1,1 @@
+Attaching db - if there was a previous db and attaching a new mdf without an ldf, make sure the old ldf is archived.
